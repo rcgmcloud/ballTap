@@ -1,0 +1,57 @@
+#myCanvas {
+  background-color: yellow;
+}
+
+.a {
+  width: 200px;
+  height:200px;
+  /*background-color:red;*/
+  position:fixed;
+  border-radius: 200px;
+  background: url('/images/cute-bunnies-tongues-6.jpg') center no-repeat;
+  background-size: cover;
+  /*box-shadow: 0px 10px 5px #888888;*/
+  box-shadow: 0px 9px 16px -1px rgba(0,0,0,0.53);
+}
+
+.b {
+  width: 200px;
+  height:200px;
+  background: url('/images/cute-kitten.jpg') center no-repeat;
+  background-size: cover;
+  position:fixed;
+  border-radius: 200px;
+  box-shadow: 0px 9px 16px -1px rgba(0,0,0,0.53);
+}
+
+.c {
+  width: 200px;
+  height:200px;
+  background: url('/images/fluffy-asshole.jpg') center no-repeat;
+  background-size: cover;
+  position:fixed;
+  border-radius: 200px;
+  box-shadow: 0px 9px 16px -1px rgba(0,0,0,0.53);
+}
+
+.d {
+  width: 200px;
+  height:200px;
+  background: url('/images/cute-doggie.jpg') center no-repeat;
+  background-size: cover;
+  position:fixed;
+  border-radius: 200px;
+  box-shadow: 0px 9px 16px -1px rgba(0,0,0,0.53);
+}
+
+@font-face {
+  font-family: "ballFont";
+  src: url("/images/EightBaller.ttf");
+}
+
+#title {
+  background: url('/images/title_1.png') no-repeat;
+  width: 1000px;
+  height: 500px;
+  margin: 200px auto 0 auto;
+}
